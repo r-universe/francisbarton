@@ -28,3 +28,8 @@
 	url = https://github.com/francisbarton/msoahexmap
 	shallow = true
 	registered = true
+[submodule "dwpstat"]
+	path = dwpstat
+	url = https://github.com/dr-uk/dwpstat
+	shallow = true
+	registered = false
