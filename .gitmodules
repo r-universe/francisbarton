@@ -1,35 +1,23 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/francisbarton/universe
-	shallow = true
 	branch = HEAD
-[submodule "xstatic"]
-	path = xstatic
-	url = https://github.com/francisbarton/xstatic
-	shallow = true
-	registered = true
 [submodule "boundr"]
 	path = boundr
 	url = https://github.com/francisbarton/boundr
-	shallow = true
-	registered = true
-[submodule "tapioca"]
-	path = tapioca
-	url = https://github.com/francisbarton/tapioca
-	shallow = true
-	registered = true
-[submodule "mapirosa"]
-	path = mapirosa
-	url = https://github.com/francisbarton/mapirosa
-	shallow = true
-	registered = true
-[submodule "msoahexmap"]
-	path = msoahexmap
-	url = https://github.com/francisbarton/msoahexmap
-	shallow = true
-	registered = true
 [submodule "dwpstat"]
 	path = dwpstat
 	url = https://github.com/dr-uk/dwpstat
-	shallow = true
 	registered = false
+[submodule "mapirosa"]
+	path = mapirosa
+	url = https://github.com/francisbarton/mapirosa
+[submodule "msoahexmap"]
+	path = msoahexmap
+	url = https://github.com/francisbarton/msoahexmap
+[submodule "tapioca"]
+	path = tapioca
+	url = https://github.com/francisbarton/tapioca
+[submodule "xstatic"]
+	path = xstatic
+	url = https://github.com/francisbarton/xstatic
