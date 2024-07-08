@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "boundr"]
 	path = boundr
-	url = https://github.com/francisbarton/boundr
+	url = https://codeberg.org/francisbarton/boundr
 [submodule "dwpstat"]
 	path = dwpstat
 	url = https://github.com/dr-uk/dwpstat
@@ -15,6 +15,9 @@
 [submodule "msoahexmap"]
 	path = msoahexmap
 	url = https://github.com/francisbarton/msoahexmap
+[submodule "shadowpop"]
+	path = shadowpop
+	url = https://codeberg.org/francisbarton/shadowpop
 [submodule "tapioca"]
 	path = tapioca
 	url = https://github.com/francisbarton/tapioca
