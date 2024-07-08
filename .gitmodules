@@ -12,15 +12,9 @@
 [submodule "mapirosa"]
 	path = mapirosa
 	url = https://github.com/francisbarton/mapirosa
-[submodule "msoahexmap"]
-	path = msoahexmap
-	url = https://github.com/francisbarton/msoahexmap
 [submodule "shadowpop"]
 	path = shadowpop
 	url = https://codeberg.org/francisbarton/shadowpop
-[submodule "tapioca"]
-	path = tapioca
-	url = https://github.com/francisbarton/tapioca
 [submodule "xstatic"]
 	path = xstatic
 	url = https://github.com/francisbarton/xstatic
