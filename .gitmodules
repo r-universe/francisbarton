@@ -9,12 +9,18 @@
 	path = dwpstat
 	url = https://github.com/dr-uk/dwpstat
 	registered = false
+[submodule "lettern"]
+	path = lettern
+	url = https://github.com/francisbarton/lettern
 [submodule "mapirosa"]
 	path = mapirosa
 	url = https://github.com/francisbarton/mapirosa
 [submodule "shadowpop"]
 	path = shadowpop
 	url = https://codeberg.org/francisbarton/shadowpop
+[submodule "skittles"]
+	path = skittles
+	url = https://github.com/francisbarton/skittles
 [submodule "xstatic"]
 	path = xstatic
 	url = https://github.com/francisbarton/xstatic
