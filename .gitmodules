@@ -5,10 +5,6 @@
 [submodule "boundr"]
 	path = boundr
 	url = https://codeberg.org/francisbarton/boundr
-[submodule "dwpstat"]
-	path = dwpstat
-	url = https://github.com/dr-uk/dwpstat
-	registered = false
 [submodule "lettern"]
 	path = lettern
 	url = https://github.com/francisbarton/lettern
